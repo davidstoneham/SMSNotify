@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SMSNotify</string>
+    <string name="title_activity_main">SMSNotify</string>
+    <string name="preferences_endpoints">ENDPOINT_PREF</string>
+    <string name="preferences_key">KEY_PREF</string>
+</resources>
